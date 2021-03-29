@@ -1,0 +1,46 @@
+#n8,
+#i,
+#k,
+#povlaka {
+  grid-column-start: 8;
+  grid-column-end: 9;
+}
+#n9,
+#o,
+#l,
+#donja {
+  grid-column-start: 9;
+  grid-column-end: 10;
+}
+
+#n0,
+#p {
+  grid-column-start: 10;
+  grid-column-end: 11;
+}
+
+#shift,
+#caps,
+#ok {
+  grid-column-start: 10;
+  grid-column-end: 13;
+}
+
+#backspace {
+  grid-row-start: 1;
+  grid-row-end: 2;
+  grid-column-start: 11;
+  grid-column-end: 13;
+}
+
+#enter {
+  grid-row-start: 2;
+  grid-row-end: 3;
+  grid-column-start: 11;
+  grid-column-end: 13;
+}
+
+#space {
+  grid-column-start: 1;
+  grid-column-end: 10;
+}
